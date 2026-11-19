@@ -13,4 +13,4 @@
 
 <div align="center">
   <img src="Screenshot_pmpl.jpeg" alt="Screenshot Pengujian Native Toast" width="360"/>
-</div>idance on mobile development, and a full API reference.
+</div>
